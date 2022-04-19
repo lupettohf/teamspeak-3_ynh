@@ -16,8 +16,8 @@ SOURCE_URL=https://files.teamspeak-services.com/releases/server/${TS3S_VERSION}/
 
 # TeamSpeak 3 Server tar.bz2 checksums
 # TODO: get url for checksums
-declare -A SOURCE_SHA256=( [x86]="f5ff4d313865ca8ab4a9c63f447f584a9363a313624950f683ec4d6f59d55059" \
-						   [amd64]="9bd56e115afea19351a6238a670dc93e365fe88f8a6c28b5b542ef6ae2ca677e" )
+declare -A SOURCE_SHA256=( [x86]="f142a215e76feb0e5b9aa36fa37017c109d444ec1b66753465387d575ef39b14" \
+						   [amd64]="53704d27826385ddfd803ee232c1d3f021ad9bf18540313691841ad9bb722bec" )
 
 
 #
