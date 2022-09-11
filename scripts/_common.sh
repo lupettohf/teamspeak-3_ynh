@@ -6,7 +6,7 @@ APPNAME="ts3server"
 
 # Teamspeak 3 Server version
 # TODO: Add mariadb version
-TS3S_VERSION="3.13.6"
+TS3S_VERSION="3.13.7"
 
 # TODO: Add dependencies here
 # libmariadb
@@ -16,8 +16,8 @@ SOURCE_URL=https://files.teamspeak-services.com/releases/server/${TS3S_VERSION}/
 
 # TeamSpeak 3 Server tar.bz2 checksums
 # TODO: get url for checksums
-declare -A SOURCE_SHA256=( [x86]="f142a215e76feb0e5b9aa36fa37017c109d444ec1b66753465387d575ef39b14" \
-						   [amd64]="53704d27826385ddfd803ee232c1d3f021ad9bf18540313691841ad9bb722bec" )
+declare -A SOURCE_SHA256=( [x86]="68c1033a7bc178a7f31bc94316153c2390d8806e7722c08304c576314c898b68" \
+						   [amd64]="775a5731a9809801e4c8f9066cd9bc562a1b368553139c1249f2a0740d50041e" )
 
 
 #
